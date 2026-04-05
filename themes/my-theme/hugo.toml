@@ -1,0 +1,24 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-US'
+title = 'My New Hugo Site'
+
+[menus]
+    [[menus.main]]
+        name = '文法'
+        pageRef = '/grammar'
+        weight = 10
+
+    [[menus.main]]
+        name = '発音'
+        pageRef = '/phonology'
+        weight = 20
+
+    [[menus.main]]
+        name = '例文集'
+        pageRef = '/examples'
+        weight = 30
+
+[module]
+    [module.hugoVersion]
+        extended = false
+        min = '0.146.0'

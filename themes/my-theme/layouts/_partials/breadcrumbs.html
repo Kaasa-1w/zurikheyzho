@@ -1,0 +1,15 @@
+{{- $pages := .Ancestors }}
+<nav class="breadcrumb">
+    <ol>
+        {{- range $pages.Reverse }}
+            <li>
+                <a href="{{ .RelPermalink }}">
+                    <span>{{ .Title }}</span>
+                </a>
+            </li>
+        {{- end }}
+        <li>
+            <span>{{ .Title }}</span>
+        </li>
+    </ol>
+</nav>

@@ -1,0 +1,9 @@
+<div class="header-inner">
+    <div class="header-logo">
+        <a href="{{ .Site.BaseURL }}">
+            <img src="{{ .Site.BaseURL }}img/logo-main.svg" alt="kheythow">
+            <span>{{ site.Title }}</span>
+        </a>
+    </div>
+    {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+</div>

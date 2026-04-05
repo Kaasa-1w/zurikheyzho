@@ -1,0 +1,20 @@
+{{ define "main" }}
+    <div class="sect-list">
+        <div class="wrapper">
+            <h1>{{ .Title }}</h1>
+            <div class="section-inner">
+                {{ .Content }}
+            </div>
+            <ul class="box-list">
+                {{- range .Pages }}
+                    <li>
+                        <a href="{{ .RelPermalink }}">
+                            <h2>{{ .LinkTitle }}</h2>
+                            <p>{{ .Summary }}</p>
+                        </a>
+                    </li>
+                {{- end }}
+            </ul>
+        </div>
+    </div>
+{{ end }}

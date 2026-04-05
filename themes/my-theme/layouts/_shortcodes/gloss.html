@@ -1,0 +1,17 @@
+{{- $key := "gloss_counter" }}
+
+{{- if not (.Page.Scratch.Get $key) }}
+    {{- .Page.Scratch.Set $key 0 }}
+{{- end }}
+
+{{- $count := add (.Page.Scratch.Get $key) 1 }}
+{{- .Page.Scratch.Set $key $count}}
+
+<div class="example">
+    <span class="count">({{ $count }})</span>
+    <div>
+        <p class="sentence">{{ .Get "sentence" }}</p>
+        <p class="gloss">{{ .Get "gloss" }}</p>
+        <p class="translation">「{{ .Get "translation" }}」</p>
+    </div>
+</div>

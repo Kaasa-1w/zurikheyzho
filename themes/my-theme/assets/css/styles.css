@@ -1,0 +1,393 @@
+@charset 'UTF-8';
+
+/* common */
+body {
+    color: #fdfdfe;
+    background-color: #3e5771;
+    font-family: 'Noto Sans JP', Arial, sans-serif;
+}
+
+p>a {
+    color: #CACAE5;
+    border-bottom: 0.1rem solid #CACAE5;
+}
+
+::selection {
+    color: #1a242f;
+    background-color: #6f703e;
+}
+
+.wrapper {
+    padding: 2rem 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-inner {
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+.section-inner h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-size: 1.9rem;
+    border-bottom: 0.3rem solid #703e3e;
+}
+
+.section-inner h3 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    border-bottom: 0.2rem solid #703e3e;
+}
+
+.section-inner p {
+    margin-bottom: 1rem;
+    padding: 0 1rem;
+    text-align: justify;
+}
+
+.example {
+    width: 90%;
+    margin: 0 auto 1rem auto;
+    padding: 0 1rem;
+    background-color: #507092;
+    border-top: 0.2rem solid #7ed957;
+    display: grid;
+    grid-template-columns: auto 1fr;
+}
+
+.example p {
+    margin-bottom: 0.5rem;
+}
+
+.emphasis {
+    width: 80%;
+    margin: 1rem auto;
+    text-align: center;
+    font-size: 1.5rem;
+    background-color: #507092;
+    border-top: 0.2rem solid #7ed957;
+}
+
+.sect-table {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 1rem;
+}
+
+table th,
+table td {
+    border: 0.1rem solid #1a242f;
+    padding: 0.3rem 0.6rem;
+    text-align: center;
+}
+
+table th {
+    background-color: #6f703e;
+    color: #1a242f;
+}
+
+table td {
+    background-color: #507092;
+}
+
+/* main */
+main {
+    min-height: 100vh;
+    margin: 4rem 0 0 0;
+}
+
+/* header */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    padding: 0.5rem;
+    background-color: #3e5771;
+    border-bottom: 0.1rem solid #808080;
+}
+
+.header-inner {
+    display: flex;
+}
+
+.header-logo {
+    width: 30%;
+}
+
+.header-logo a {
+    display: flex;
+    align-items: center;
+}
+
+.header-logo a img {
+    height: 3rem;
+}
+
+.header-logo a span {
+    margin: 0 1rem;
+    font-size: 1.5rem;
+}
+
+.header-inner nav {
+    width: 70%;
+    padding-right: 1.5rem;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 1.1rem;
+}
+
+.header-inner .menu-list {
+    display: flex;
+    align-items: center;
+}
+
+.header-inner .menu-list .menu-item {
+    min-width: 5rem;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: color 0.3s;
+}
+
+.header-inner .menu-list .menu-item:hover {
+    color: #7ed957;
+}
+
+.header-inner .menu-list .menu-item a {
+    display: block;
+    padding: 0.5rem 1.5rem;
+}
+
+/* footer */
+footer {
+    width: 100%;
+    padding: 0.5rem;
+    background-color: #1a242f;
+    border-top: 0.1rem solid #808080;
+}
+
+.copyright {
+    text-align: center;
+}
+
+/* breadcrumbs */
+.breadcrumb {
+    padding: 1rem 0 0 1rem;
+}
+
+.breadcrumb ol {
+    display: flex;
+}
+
+.breadcrumb li a {
+    color: #CACAE5;
+}
+
+.breadcrumb li + li::before {
+    content: ">";
+    margin: 0 0.5rem;
+}
+
+/* ---------------------------------------- Home ---------------------------------------- */
+/* key visual */
+.keyvisual .wrapper {
+    flex-direction: column;
+    padding: 2rem 5rem;
+}
+
+.keyvisual img {
+    height: 10rem;
+    margin-inline-end: 2rem;
+}
+
+.catchphrase {
+    font-size: 3.5rem;
+    line-height: 2em;
+}
+
+/* card section */
+.contents-card .wrapper {
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.card {
+    flex: 1;
+    height: 13rem;
+    border-left: 0.1rem solid #808080;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:last-child {
+    border-right: 0.1rem solid #808080;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card a {
+    display: block;
+    height: 100%;
+    padding: 2rem;
+}
+
+.card-title {
+    margin-bottom: 1rem;
+    border-bottom: 0.3rem solid #703e3e;
+}
+
+/* introduction */
+.introduction .wrapper {
+    flex-direction: column;
+}
+
+.introduction .section-inner:last-child {
+    margin-bottom: 0;
+}
+
+/* contact */
+.info .wrapper {
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.info h2 {
+    margin-bottom: 2rem;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.info h2 span {
+    border-bottom: 0.3rem solid #703e3e;
+}
+
+.info .info-inner {
+    min-height: 15rem;
+    padding: 0 3rem;
+}
+
+.info .contact {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.info .contact .sns {
+    display: flex;
+}
+
+.info .contact .sns a {
+    padding: 0.5rem;
+}
+
+.info .contact .sns img {
+    height: 2rem;
+    margin-right: 2rem;
+}
+
+.info .contact .sns p a {
+    padding: 0;
+}
+
+.info .history {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    border-left: 0.1rem solid #808080;
+}
+
+.info .history .history-inner {
+    margin-bottom: 0.8rem;
+}
+
+.info .history .history-inner h3 {
+    margin-bottom: 0.5rem;
+}
+
+.info .history .history-inner h3 a {
+    color: #CACAE5;
+    border-bottom: 0.1rem solid #CACAE5;
+}
+
+.info .history .history-inner p {
+    margin-left: 1rem;
+}
+
+.info .history .history-inner span {
+    font-size: 0.9rem;
+    color: #1a242f;
+}
+
+/* ---------------------------------------- Section ---------------------------------------- */
+.sect-list .wrapper {
+    flex-direction: column;
+}
+
+.sect-list h1 {
+    width: 100%;
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    border-bottom: 0.3rem solid #703e3e;
+}
+
+.box-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5%;
+    width: 100%;
+}
+
+.box-list li {
+    padding: 1rem;
+    height: 13rem;
+    border: 0.1rem solid #808080;
+    border-radius: 10%;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.box-list li:hover {
+    transform: translateY(-0.1rem);
+}
+
+.box-list li a {
+    display: block;
+    height: 100%;
+}
+
+.box-list li a h2 {
+    margin-bottom: 0.5rem;
+    border-bottom: 0.3rem solid #7ed957;
+}
+
+/* ---------------------------------------- Single ---------------------------------------- */
+.single-page .wrapper {
+    flex-direction: column;
+}
+
+.single-page h1 {
+    margin-bottom: 1rem;
+    font-size: 2.5rem;
+}
+
+.single-page time {
+    margin-bottom: 2rem;
+    font-size: 0.9rem;
+    color: #1a242f;
+}

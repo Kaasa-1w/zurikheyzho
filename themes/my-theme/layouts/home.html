@@ -1,0 +1,47 @@
+{{ define "main" }}
+    <section class="keyvisual">
+        <div class="wrapper">
+            <img src="{{ .Site.BaseURL }}img/logo-main.svg" alt="main logo">
+            <h1 class="catchphrase">Kheythow'i tay'i soy'a tirow!<br>ヘイソウ語の世界へようこそ！</h1>
+        </div>
+    </section><!-- /.keyvisual -->
+    <section class="sect-list">
+        <div class="wrapper">
+            {{ partial "box-list.html" . }}
+        </div>
+    </section><!-- /.sect-list -->
+    <section class="introduction">
+        <div class="wrapper">
+            <div class="section-inner">
+                {{ .Content }}
+            </div>
+        </div>
+    </section><!-- /.introduction -->
+    <section class="info">
+        <div class="wrapper">
+            <div class="contact info-inner">
+                <h2><span>CONTACT</span></h2>
+                <div class="sns">
+                    <a href="#">
+                        <img src="{{ .Site.BaseURL }}img/x-logo.svg" alt="x logo">
+                    </a>
+                    <p>
+                        主にX（旧Twitter）で活動しています。<br>
+                        お問い合わせなどは<a href="#">こちら</a>まで。<br>
+                        フォローして頂けると喜びます。
+                    </p>
+                </div>
+            </div>
+            <div class="history info-inner">
+                <h2><span>HISTORY</span></h2>
+                {{- range first 5 site.RegularPages.ByDate.Reverse }}
+                    <div class="history-inner">
+                        <span>{{ .Date.Format "2006-01-02" }}</span>
+                        <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+                        <p>{{ .Summary }}</p>
+                    </div>
+                {{- end }}
+            </div>
+        </div>
+    </section><!-- /.info -->
+{{ end }}

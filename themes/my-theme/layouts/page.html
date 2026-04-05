@@ -1,0 +1,16 @@
+{{ define "main" }}
+    <div class="single-page">
+        {{ partial "breadcrumbs.html" . }}
+        <div class="wrapper">
+            <h1>{{ .Title }}</h1>
+
+            {{- $date := .Date | time.Format "2006-01-02" }}
+            <time datetime="{{ $date }}">{{ $date }}</time>
+
+            <div class="section-inner">
+                {{ .Content }}
+            </div>
+        </div>
+        {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+    </div>
+{{ end }}

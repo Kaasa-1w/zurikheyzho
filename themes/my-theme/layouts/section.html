@@ -1,0 +1,23 @@
+{{ define "main" }}
+{{ partial "breadcrumbs.html" . }}
+    <section class="sect-list">
+        <div class="wrapper">
+            <h1>{{ .Title }}</h1>
+            <div class="section-inner">
+                {{ .Content }}
+            </div>
+
+            {{ partial "box-list.html" . }}
+            <!-- <ul class="box-list">
+                {{- range .Pages }}
+                    <li>
+                        <a href="{{ .RelPermalink }}">
+                            <h2>{{ .LinkTitle }}</h2>
+                            <p>{{ .Summary }}</p>
+                        </a>
+                    </li>
+                {{- end }}
+            </ul> -->
+        </div>
+    </section>
+{{ end }}

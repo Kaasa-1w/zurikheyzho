@@ -1,0 +1,10 @@
+baseURL = 'https://example.org/'
+languageCode = 'ja-JP'
+title = 'Zurikheyzho'
+theme = 'my-theme'
+
+[markup.goldmark.renderer]
+    unsafe = true
+    
+[markup.goldmark.parser]
+    autoHeadingID = false

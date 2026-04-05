@@ -1,0 +1,23 @@
+{{- $hasHeader := .Get "header" | default "true" }}
+{{- $tables := split (.Inner | strings.TrimSpace) ">&" }}
+
+<div class="sect-table">
+    {{- range $tables }}
+        <table>
+            {{- range $i, $row := split (strings.TrimSpace .) "\n" }}
+                {{- if ne (strings.TrimSpace $row) "" }}
+                    {{- $cols := split $row "|" }}
+                    <tr>
+                        {{- range $cols }}
+                            {{- if and (eq $hasHeader "true") (eq $i 0) }}
+                                <th>{{ strings.TrimSpace . }}</th>
+                            {{- else }}
+                                <td>{{ strings.TrimSpace . }}</td>
+                            {{- end }}
+                        {{- end }}
+                    </tr>
+                {{- end }}
+            {{- end }}
+        </table>
+    {{- end }}
+</div>
