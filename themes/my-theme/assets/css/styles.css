@@ -49,6 +49,12 @@ p>a {
     text-align: justify;
 }
 
+.section-inner ul {
+    list-style: disc inside;
+    margin-bottom: 1rem;
+    padding: 0 1rem;
+}
+
 .example {
     width: 90%;
     margin: 0 auto 1rem auto;
