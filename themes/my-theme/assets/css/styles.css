@@ -43,10 +43,23 @@ p>a {
     border-bottom: 0.2rem solid #703e3e;
 }
 
+.section-inner h4 {
+    margin-top: 1rem;
+    padding: 0 1rem;
+    font-weight: bolder;
+    line-height: 1.5;
+}
+
 .section-inner p {
     margin-bottom: 1rem;
     padding: 0 1rem;
     text-align: justify;
+}
+
+.section-inner ol {
+    list-style: decimal inside;
+    margin-bottom: 1rem;
+    padding: 0 1rem;
 }
 
 .section-inner ul {
