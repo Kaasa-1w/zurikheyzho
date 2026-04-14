@@ -39,8 +39,8 @@ summary = '当サイトで使っているグロスの略号の一覧です。'
 {{< table >}}
     法 | 略号
     直説法 | IND
-    反事実法 | CF
-    推量法 | EPI
+    反事実法 | CNTF
+    推量法 | CONJC
     義務法 | OBLG
     願望法 | DES
     意志法 | VOL
