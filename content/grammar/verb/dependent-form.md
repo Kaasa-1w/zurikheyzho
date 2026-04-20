@@ -2,7 +2,7 @@
 date = '2026-04-03T17:23:18+09:00'
 draft = true
 title = '準動詞形'
-summary = 'this is a sample sentence.'
+summary = '名詞形および接続形について'
 +++
 
 ヘイソウ語では、名詞形および接続形をまとめて準動詞形と呼ぶ。<br>

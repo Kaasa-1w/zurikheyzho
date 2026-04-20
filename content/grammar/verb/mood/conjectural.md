@@ -2,7 +2,7 @@
 date = '2026-04-09T13:05:51+09:00'
 draft = true
 title = '推量法'
-summary = '推量法の詳細'
+summary = '「～だろう」という意味を表す推量法の詳細'
 +++
 
 ヘイソウ語の推量法は、命題の真偽について、話者が不確実性を持って評価することを示す。
@@ -33,13 +33,31 @@ summary = '推量法の詳細'
 
 直接証拠との組み合わせでは、不確実性の低い、強い推量を表す。
 
+{{< gloss 
+    sentence="'otyo-'wi 'ogho-ne ta-ro-'a-ghew-ke"
+    gloss="あの場所-LOC 3SG.M-NOM 存在する-PST-DIR-CONJC-3.AN"
+    translation="彼はあの場にいたはずだ"
+>}}
+
 ### 推量法 × 伝聞証拠
 
 伝聞証拠との組み合わせでは、不確実性の高い、弱い推量を表す。
 
+{{< gloss 
+    sentence="lityo-'i roy-'wi thweri kuu'wo-Ø si-kh-o-ghew-lhe"
+    gloss="駅-GEN 前-LOC 新しい カフェ-NOM 開店する-FUT-REP-CONJC-3.INAN"
+    translation="駅前に新しくカフェができるらしい（という噂を聞いた）"
+>}}
+
 ### 推量法 × 推論証拠
 
 推論証拠との組み合わせでは、不確実性が中～高程度の推量を表す。
+
+{{< gloss 
+    sentence="tow'i dike-ne na'e tay-ro-y-ghew-de"
+    gloss="もしかしたら 1SG.N-NOM そのように 言う-PST-INFER-CONJC-1.AN"
+    translation="私はもしかしたらそう言ったかもしれない"
+>}}
 
 ## 反事実法との関係
 
