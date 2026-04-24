@@ -9,10 +9,23 @@
                     {{- $cols := split $row "|" }}
                     <tr>
                         {{- range $cols }}
+                            {{- $content := strings.TrimSpace . }}
+                            {{- $colspan := "1" }}
+
+                            {{- if findRE ">#[0-9]+" $content }}
+                                {{- $meta := index (findRE ">#[0-9]+" $content) 0 }}
+                                {{- $content = replace $content $meta "" | strings.TrimSpace }}
+                                {{- $colspan = replace $meta ">#" "" }}
+                            {{- end }}
+
                             {{- if and (eq $hasHeader "true") (eq $i 0) }}
-                                <th>{{ strings.TrimSpace . }}</th>
+                                <th {{ if ne $colspan "1" }} colspan="{{ $colspan }}" {{ end }} >
+                                    {{ $content }}
+                                </th>
                             {{- else }}
-                                <td>{{ strings.TrimSpace . }}</td>
+                                <td {{ if ne $colspan "1" }} colspan="{{ $colspan }}" {{ end }} >
+                                    {{ $content}}
+                                </td>
                             {{- end }}
                         {{- end }}
                     </tr>
