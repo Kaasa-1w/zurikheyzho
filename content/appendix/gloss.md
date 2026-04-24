@@ -42,7 +42,6 @@ summary = '当サイトで使っているグロスの略号の一覧です。'
     反事実法 | CNTF
     推量法 | CONJC
     義務法 | OBLG
-    願望法 | DES
     意志法 | VOL
     命令法 | IMP
 {{< /table >}}

@@ -34,7 +34,7 @@ summary = '「～だろう」という意味を表す推量法の詳細'
 直接証拠との組み合わせでは、不確実性の低い、強い推量を表す。
 
 {{< gloss 
-    sentence="'otyo-'wi 'ogho-ne ta-ro-'a-ghew-ke"
+    sentence="'otyo-'wi 'ogho-ne ta-re-Ø-ghew-ke"
     gloss="あの場所-LOC 3SG.M-NOM 存在する-PST-DIR-CONJC-3.AN"
     translation="彼はあの場にいたはずだ"
 >}}
@@ -54,7 +54,7 @@ summary = '「～だろう」という意味を表す推量法の詳細'
 推論証拠との組み合わせでは、不確実性が中～高程度の推量を表す。
 
 {{< gloss 
-    sentence="tow'i dike-ne na'e tay-ro-y-ghew-de"
+    sentence="tow'i dike-ne na'e tay-r-i-ghew-de"
     gloss="もしかしたら 1SG.N-NOM そのように 言う-PST-INFER-CONJC-1.AN"
     translation="私はもしかしたらそう言ったかもしれない"
 >}}
