@@ -1,4 +1,6 @@
 {{- $hasHeader := .Get "header" | default "true" }}
+{{- $rowHeader := .Get "rowHeader" | default "false" }}
+
 {{- $tables := split (.Inner | strings.TrimSpace) ">&" }}
 
 <div class="sect-table">
@@ -6,10 +8,9 @@
         <table>
             {{- range $i, $row := split (strings.TrimSpace .) "\n" }}
                 {{- if ne (strings.TrimSpace $row) "" }}
-                    {{- $cols := split $row "|" }}
                     <tr>
-                        {{- range $cols }}
-                            {{- $content := strings.TrimSpace . }}
+                        {{- range $j, $col := split $row "|" }}
+                            {{- $content := strings.TrimSpace $col }}
                             {{- $colspan := "1" }}
 
                             {{- if findRE ">#[0-9]+" $content }}
@@ -21,6 +22,10 @@
                             {{- if and (eq $hasHeader "true") (eq $i 0) }}
                                 <th {{ if ne $colspan "1" }} colspan="{{ $colspan }}" {{ end }} >
                                     {{ $content }}
+                                </th>
+                            {{- else if and (eq $rowHeader "true") (eq $j 0) }}
+                                <th {{ if ne $colspan "1" }} colspan="{{ $colspan }}" {{ end }} >
+                                    {{ $content}}
                                 </th>
                             {{- else }}
                                 <td {{ if ne $colspan "1" }} colspan="{{ $colspan }}" {{ end }} >
