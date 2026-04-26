@@ -1,3 +1,21 @@
+This repository contains both code and content, which are licensed separately:
+
+1. Code (including themes, layouts, shortcodes, CSS, and other source files)
+   is licensed under the MIT License.
+   See the section below for details.
+
+2. Content (including linguistic descriptions, grammar, examples, and texts
+   under the "content/" directory) is licensed under the
+   Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+   https://creativecommons.org/licenses/by-sa/4.0/
+
+   You are free to share and adapt the material provided that:
+   - Appropriate credit is given
+   - Changes are indicated
+   - Derivatives are distributed under the same license
+
+----------------------------------------------------------------
 MIT License
 
 Copyright (c) 2026 Kaasa-1w
