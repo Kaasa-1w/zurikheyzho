@@ -1,5 +1,11 @@
+{{- $pages := .Pages }}
+
+{{- if .IsHome }}
+    {{- $pages = first 6 $pages }}
+{{- end }}
+
 <ul class="box-list">
-    {{- range .Pages }}
+    {{- range $pages }}
         <li>
             <a href="{{ .RelPermalink }}">
                 <h2>{{ .LinkTitle }}</h2>
