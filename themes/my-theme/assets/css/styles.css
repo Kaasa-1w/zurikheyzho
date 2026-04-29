@@ -317,6 +317,7 @@ footer {
 
 .info .contact .sns {
     display: flex;
+    margin-bottom: 1.5rem;
 }
 
 .info .contact .sns a {
