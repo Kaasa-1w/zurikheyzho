@@ -2,6 +2,7 @@
 title = 'Home'
 date = 2023-01-01T08:00:00-07:00
 draft = false
+description = "人工言語ヘイソウ語（Kheythowic language, kheythow\u0027i tay）の公式サイトです。ヘイソウ語の文法・発音・文字を学べます。"
 +++
 
 ## 人工言語とは
