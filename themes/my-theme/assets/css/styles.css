@@ -376,13 +376,13 @@ footer {
 .box-list {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 5%;
+    gap: 1.5rem;
     width: 100%;
 }
 
 .box-list li {
     padding: 1rem;
-    height: 13rem;
+    min-height: 13rem;
     border: 0.1rem solid #808080;
     border-radius: 10%;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
