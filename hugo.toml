@@ -2,6 +2,7 @@ baseURL = 'https://zurikheyzho.com/'
 languageCode = 'ja-JP'
 title = 'Zurikheyzho'
 theme = 'my-theme'
+enableRobotsTXT = true
 
 [markup.goldmark.renderer]
     unsafe = true
