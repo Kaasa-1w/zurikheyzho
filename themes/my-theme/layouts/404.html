@@ -1,0 +1,14 @@
+{{ define "main" }}
+    <div class="single-page error-page">
+        <div class="wrapper">
+            <h1>お探しのページは見つかりません<br>404: Not Found</h1>
+
+            <div class="section-inner">
+                <p>お探しのページは削除されたかURLが変更された可能性があります。</p>
+                <p>URL、ファイル名にタイプミスがないか再度ご確認ください。</p>
+
+                <p><a href="{{ .Site.BaseURL }}">サイトトップへ</a></p>
+            </div>
+        </div>
+    </div>
+{{ end }}

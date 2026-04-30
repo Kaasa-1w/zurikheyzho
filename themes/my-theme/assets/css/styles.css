@@ -419,3 +419,9 @@ footer {
     font-size: 0.9rem;
     color: #1a242f;
 }
+
+/* ---------------------------------------- 404 Error ---------------------------------------- */
+.error-page h1, .error-page p {
+    text-align: center;
+    line-height: 1.5;
+}
