@@ -1,6 +1,6 @@
 +++
 date = '2026-04-03T17:23:18+09:00'
-draft = true
+draft = false
 title = '準動詞形'
 summary = '名詞化形および接続形について'
 +++

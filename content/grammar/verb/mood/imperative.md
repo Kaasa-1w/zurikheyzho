@@ -1,6 +1,6 @@
 +++
 date = '2026-04-14T16:26:07+09:00'
-draft = true
+draft = false
 title = '命令法'
 summary = '「～しろ」という意味を表す命令法の詳細'
 +++

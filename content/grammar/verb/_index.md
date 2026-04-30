@@ -1,7 +1,7 @@
 +++
 date = '2026-03-31T15:06:06+09:00'
-draft = true
+draft = false
 title = '動詞'
-summary = '動詞に関する文法'
+summary = 'ヘイソウ語の動詞に関する文法'
 +++
 

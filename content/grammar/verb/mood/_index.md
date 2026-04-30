@@ -1,6 +1,6 @@
 +++
 date = '2026-04-06T12:14:32+09:00'
-draft = true
+draft = false
 title = '法体系'
 summary = '反事実法や命令法など法体系について'
 +++

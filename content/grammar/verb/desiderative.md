@@ -1,6 +1,6 @@
 +++
 date = '2026-04-14T16:25:41+09:00'
-draft = true
+draft = false
 title = '願望形'
 summary = '「～したい」という意味を表す願望形の詳細'
 +++

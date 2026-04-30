@@ -1,6 +1,6 @@
 +++
 date = '2026-04-29T16:05:47+09:00'
-draft = true
+draft = false
 title = '引用ルール'
 summary = '本言語の引用ルールについて'
 +++

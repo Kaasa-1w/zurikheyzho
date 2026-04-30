@@ -1,6 +1,6 @@
 +++
 date = '2026-04-25T17:03:47+09:00'
-draft = true
+draft = false
 title = '音素'
 summary = 'ヘイソウ語の音素や音節構造について'
 +++

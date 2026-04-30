@@ -1,6 +1,6 @@
 +++
 date = '2026-04-05T11:34:22+09:00'
-draft = true
+draft = false
 title = '証拠性'
 summary = '3種類の証拠性の形態と意味'
 +++

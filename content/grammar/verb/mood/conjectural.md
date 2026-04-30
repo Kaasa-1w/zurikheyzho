@@ -1,6 +1,6 @@
 +++
 date = '2026-04-09T13:05:51+09:00'
-draft = true
+draft = false
 title = '推量法'
 summary = '「～だろう」という意味を表す推量法の詳細'
 +++

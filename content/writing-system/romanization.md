@@ -1,6 +1,6 @@
 +++
 date = '2026-04-28T16:58:18+09:00'
-draft = true
+draft = false
 title = 'ラテン文字表記'
 summary = 'ラテン文字での表記方法について'
 +++

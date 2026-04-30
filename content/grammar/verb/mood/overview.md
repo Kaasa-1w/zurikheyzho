@@ -1,6 +1,6 @@
 +++
 date = '2026-04-06T12:15:16+09:00'
-draft = true
+draft = false
 title = '法体系の概要'
 summary = '法の一覧と概説'
 +++

@@ -1,6 +1,6 @@
 +++
 date = '2026-04-14T16:25:27+09:00'
-draft = true
+draft = false
 title = '義務法'
 summary = '「～すべき」という意味を表す義務法の詳細'
 +++

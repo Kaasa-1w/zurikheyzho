@@ -1,6 +1,6 @@
 +++
 date = '2026-04-08T12:33:19+09:00'
-draft = true
+draft = false
 title = '反事実法'
 summary = '「もし～なら」という仮定を表す反事実法の詳細'
 +++

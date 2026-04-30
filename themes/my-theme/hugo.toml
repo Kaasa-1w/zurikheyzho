@@ -9,7 +9,7 @@ title = 'My New Hugo Site'
         weight = 10
 
     [[menus.main]]
-        name = '発音'
+        name = '音韻'
         pageRef = '/phonology'
         weight = 20
 

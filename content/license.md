@@ -1,6 +1,6 @@
 +++
 date = '2026-04-29T16:04:55+09:00'
-draft = true
+draft = false
 title = '著作権ポリシー'
 summary = '本言語の著作権について'
 +++

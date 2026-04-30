@@ -1,6 +1,6 @@
 +++
 date = '2026-04-01T14:52:29+09:00'
-draft = true
+draft = false
 title = '動詞の概要'
 summary = '動詞の活用の概要や語幹の作り方など動詞の基本知識'
 weight = 10

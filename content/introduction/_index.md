@@ -1,6 +1,6 @@
 +++
 date = '2026-03-31T16:40:39+09:00'
-draft = true
+draft = false
 title = 'ヘイソウ語とは'
 summary = '人工言語ヘイソウ語の概要を知ることができます。'
 weight = 10
