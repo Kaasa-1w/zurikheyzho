@@ -10,6 +10,7 @@
 <div class="example">
     <span class="count">({{ $count }})</span>
     <div>
+        <p class="source">{{ .Get "source" }}</p>
         <p class="sentence">{{ .Get "sentence" }}</p>
         <p class="gloss">{{ .Get "gloss" }}</p>
         <p class="translation">「{{ .Get "translation" }}」</p>

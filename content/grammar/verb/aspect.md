@@ -16,7 +16,7 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 
 {{< table >}}
     相 | 接尾辞
-    単純相 | -
+    単純相 | -Ø
     結果相 | -syo
     経験相 | -uu
     進行相 | -ay
@@ -24,7 +24,7 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
     >&
     時制 | 接尾辞
     現在 | -t
-    過去 | -ro
+    過去 | -r
     未来 | -kh
 {{< /table >}}
 
@@ -41,18 +41,20 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 すなわち、事態全体を捉えるには時間的広がりが必要であるのに対し、現在時制は本来的に時間的広がりをもたないためである。<br>
 この不整合を解消するため、単純相現在時制では基準時点の解釈が拡張され、特定の時点に限定されない一般的・普遍的な事実や性質を表す用法が成立する。
 
-{{< gloss 
-    sentence=""
-    gloss=""
-    translation=""
+{{< gloss
+    source="row ngo cey'oy khwitelhe"
+    sentence="row-Ø ngo cey-'oy khwi-Ø-te-lhe"
+    gloss="水-NOM 0 ℃-INS 凍る-SIMP-PRS.DIR-3.INAN"
+    translation="水は0℃で凍る"
 >}}
 
 典型的には、性質や状態を表す述語においてこの用法が現れる。
 これらは特定の時点に局所化されにくく、時間的に広がりをもつ性質として解釈されるためである。
 
-{{< gloss 
-    sentence="dike-ne fashyanu-u fo-Ø-t-a-de"
-    gloss="1SG.N-NOM リンゴ-ACC 食べる-SIMP-PRS-DIR-1.AN"
+{{< gloss
+    source="dikene fashyanuu fotede"
+    sentence="dike-ne fashyanu-u fo-Ø-te-de"
+    gloss="1SG.N-NOM リンゴ-ACC 食べる-SIMP-PRS.DIR-1.AN"
     translation="私はリンゴを食べる"
 >}}
 
@@ -73,10 +75,11 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 単純相と組み合わさる場合、その過去の基準時点において一まとまりの出来事として把握される事態が成立したことを表す。<br>
 このとき、事態はその内部構造には立ち入らず、全体として完結したものとして提示されるのが基本である。
 
-{{< gloss 
+{{< gloss
+    source=""
     sentence=""
     gloss=""
-    translation=""
+    translation="昨日のパーティーには彼もいたよ"
 >}}
 
 ### 単純相 × 未来
@@ -84,19 +87,21 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 未来時制では、基準時点が発話時点より後に設定される。<br>
 単純相と組み合わさる場合、その未来の基準時点において一まとまりの出来事として把握される事態が成立すると予測されることを表す。
 
-{{< gloss 
+{{< gloss
+    source=""
     sentence=""
     gloss=""
-    translation=""
+    translation="明日は11時から打ち合わせがある"
 >}}
 
 また、文脈によっては、当該事態が発話時点においてすでに開始されているが、将来的に完結する予定であるという解釈をとることもできる。
 ただし、この場合も焦点はあくまで事態全体の成立にあり、進行中の過程そのものは明示的には表されない。
 
-{{< gloss 
+{{< gloss
+    source=""
     sentence=""
     gloss=""
-    translation=""
+    translation="もうすぐ終わるよ"
 >}}
 
 ## 結果相
