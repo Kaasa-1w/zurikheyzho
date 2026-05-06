@@ -5,51 +5,68 @@ title = 'グロス一覧'
 summary = '当サイトで使っているグロスの略号の一覧です。'
 +++
 
-## 相
+## 名詞
 
-{{< table >}}
-    相 | 略号
-    単純相 | SIMP
-    結果相 | RES
-    経験相 | EXP
-    進行相 | PROG
-    習慣相 | HAB
+{{< table rowHeader="true" >}}
+    略号 | 意味 | 備考
+    1 | 1人称 | first person
+    2 | 2人称 | second person
+    3 | 3人称 | third person
+    SG | 単数 | singular
+    PL | 複数 | plural
+    M | 男性 | masculine gender
+    F | 女性 | feminine gender
+    N | 中性 | neuter gender
+    >&
+    略号 | 意味 | 備考
+    NOM | 主格 | nominative case
+    ACC | 対格 | accusative case
+    DAT | 与格 | dative case
+    GEN | 属格 | genitive case
+    ABL | 奪格 | ablative case
+    LOC | 所格 | locative case
+    ALL | 向格 | allative case
+    INS | 具格 | instrumental case
 {{< /table >}}
 
-## 時制
+## 動詞
 
-{{< table >}}
-    時制 | 略号
-    現在 | PRS
-    過去 | PST
-    未来 | FUT
+{{< table rowHeader="true" >}}
+    略号 | 意味 | 備考
+    SIMP | 単純相 | simple aspect
+    RES | 結果相 | resultative perfect aspect
+    EXP | 経験相 | experiential perfect aspect
+    PROG | 進行相 | progressive aspect
+    HAB | 習慣相 | habitual aspect
+    PRS | 現在時制 | present tense
+    PST | 過去時制 | past tense
+    FUT | 未来時制 | future tense
+    >&
+    略号 | 意味 | 備考
+    DIR | 直接証拠 | direct evidential
+    REP | 伝聞証拠 | reportative evidential
+    INFER | 推論証拠 | inferential evidential
+    IND | 直説法 | indicative mood
+    CNTF | 反事実法 | counterfactual mood
+    CONJC | 推量法 | conjectural mood
+    OBLG | 義務法 | obligative mood
+    VOL | 意志法 | volitional mood
+    IMP | 命令法 | imperative mood
 {{< /table >}}
 
-## 証拠性
+## その他
 
-{{< table >}}
-    証拠性 | 略号
-    直接証拠 | DIR
-    伝聞証拠 | REP
-    推論証拠 | INFER
-{{< /table >}}
-
-## 法
-
-{{< table >}}
-    法 | 略号
-    直説法 | IND
-    反事実法 | CNTF
-    推量法 | CONJC
-    義務法 | OBLG
-    意志法 | VOL
-    命令法 | IMP
-{{< /table >}}
-
-## 有生性
-
-{{< table >}}
-    有生性 | 略号
-    有生物 | AN
-    無生物 | INAN
+{{< table rowHeader="true" >}}
+    略号 | 意味 | 備考
+    AN | 有生物 | animate
+    INAN | 無生物 | inanimate
+    DEM | 指示詞 | demonstrative
+    PROX | 近称 | proximal
+    MED | 中称 | medial
+    DIST | 遠称 | distal
+    COORD | 並列（接続詞） | coordination
+    CNTR | 逆接（接続詞） | contrast
+    DISJ | 選択（接続詞） | disjunction
+    RESULT | 結果（接続詞） | result
+    ADD | 追加（接続詞） | additive
 {{< /table >}}
