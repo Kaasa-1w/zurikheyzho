@@ -115,10 +115,10 @@ table th,
 table td {
     border: 0.1rem solid #1a242f;
     padding: 0.3rem 0.6rem;
-    text-align: center;
 }
 
 table th {
+    text-align: center;
     background-color: #6f703e;
     color: #1a242f;
 }
