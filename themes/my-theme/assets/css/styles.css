@@ -82,6 +82,14 @@ p>a, .section-inner a {
     margin-bottom: 0.5rem;
 }
 
+.gloss-grid {
+    display: grid;
+    justify-content: start;
+    p {
+        padding-right: 0;
+    }
+}
+
 .emphasis {
     width: 80%;
     margin: 1rem auto;

@@ -1,3 +1,6 @@
+{{- $sentence := split (.Get "sentence") " " }}
+{{- $gloss := split (.Get "gloss") " " }}
+
 {{- $key := "gloss_counter" }}
 
 {{- if not (.Page.Scratch.Get $key) }}
@@ -11,8 +14,14 @@
     <span class="count">({{ $count }})</span>
     <div>
         <p class="source">{{ .Get "source" }}</p>
-        <p class="sentence">{{ .Get "sentence" }}</p>
-        <p class="gloss">{{ .Get "gloss" }}</p>
+        <div class="gloss-grid" style="grid-template-columns: repeat({{ len $sentence }}, auto);">
+            {{- range $sentence }}
+                <p class="sentence">{{ . }}</p>
+            {{- end }}
+            {{- range $gloss }}
+                <p class="gloss">{{ . }}</p>
+            {{- end }}
+        </div>
         <p class="translation">「{{ .Get "translation" }}」</p>
     </div>
 </div>
