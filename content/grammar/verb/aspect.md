@@ -44,7 +44,7 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 {{< gloss
     source="row ngo cey'oy khwitelhe"
     sentence="row-Ø ngo cey-'oy khwi-Ø-te-lhe"
-    gloss="水-NOM 0 ℃-INS 凍る-SIMP-PRS.DIR-3.INAN"
+    gloss="水-NOM.INAN 0 ℃-INS 凍る-SIMP-PRS.DIR-3.INAN"
     translation="水は0℃で凍る"
 >}}
 
@@ -54,7 +54,7 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 {{< gloss
     source="dikene fashyanuu fotede"
     sentence="dike-ne fashyanu-u fo-Ø-te-de"
-    gloss="1SG.N-NOM リンゴ-ACC 食べる-SIMP-PRS.DIR-1.AN"
+    gloss="1SG.N-NOM.AN リンゴ-ACC.INAN 食べる-SIMP-PRS.DIR-1.AN"
     translation="私はリンゴを食べる"
 >}}
 
@@ -76,9 +76,9 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 このとき、事態はその内部構造には立ち入らず、全体として完結したものとして提示されるのが基本である。
 
 {{< gloss
-    source=""
-    sentence=""
-    gloss=""
+    source="roypay thoy'wi 'oghone ce tareke"
+    sentence="roypa-y thoy-'wi 'ogho-ne ce ta-Ø-re-ke"
+    gloss="昨日-GEN パーティー-LOC 3SG.M-NOM.AN ADD いる-SIMP-PST.DIR-3.AN"
     translation="昨日のパーティーには彼もいたよ"
 >}}
 
@@ -88,9 +88,9 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 単純相と組み合わさる場合、その未来の基準時点において一まとまりの出来事として把握される事態が成立すると予測されることを表す。
 
 {{< gloss
-    source=""
-    sentence=""
-    gloss=""
+    source="tejwe khipay gya zhaw'yo takhelhe"
+    sentence="tejwe-Ø khipa-y gya zhaw-'yo ta-Ø-khe-lhe"
+    gloss="打ち合わせ-NOM.INAN 明日-GEN 11 時-ABL ある-SIMP-FUT.DIR-3.INAN"
     translation="明日は11時から打ち合わせがある"
 >}}
 
@@ -98,10 +98,10 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 ただし、この場合も焦点はあくまで事態全体の成立にあり、進行中の過程そのものは明示的には表されない。
 
 {{< gloss
-    source=""
-    sentence=""
-    gloss=""
-    translation="もうすぐ終わるよ"
+    source="dikene khinaw'a dii 'aydhuu loyvekhede"
+    sentence="dike-ne khinaw-'a dii 'aydhu-u loyve-Ø-khe-de"
+    gloss="1SG.N-NOM.AN 来週-ALL DEM.PROX 課題-ACC.INAN 終える-SIMP-FUT.DIR-1.AN"
+    translation="来週までにこのレポートを仕上げる"
 >}}
 
 ## 結果相

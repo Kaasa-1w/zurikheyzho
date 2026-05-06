@@ -36,7 +36,7 @@ summary = '「～だろう」という意味を表す推量法の詳細'
 {{< gloss
     source="'otyo'wi 'oghone tareghewke"
     sentence="'otyo-'wi 'ogho-ne ta-re-Ø-ghew-ke"
-    gloss="あの場所-LOC 3SG.M-NOM 存在する-PST-DIR-CONJC-3.AN"
+    gloss="あの場所-LOC 3SG.M-NOM.AN 存在する-PST-DIR-CONJC-3.AN"
     translation="彼はあの場にいたはずだ"
 >}}
 
@@ -47,7 +47,7 @@ summary = '「～だろう」という意味を表す推量法の詳細'
 {{< gloss
     source="lityo'i roy'wi thweri kuu'wo sikhoghewlhe"
     sentence="lityo-'i roy-'wi thweri kuu'wo-Ø si-kh-o-ghew-lhe"
-    gloss="駅-GEN 前-LOC 新しい カフェ-NOM 開店する-FUT-REP-CONJC-3.INAN"
+    gloss="駅-GEN 前-LOC 新しい カフェ-NOM.INAN 開店する-FUT-REP-CONJC-3.INAN"
     translation="駅前に新しくカフェができるらしい（という噂を聞いた）"
 >}}
 
@@ -58,7 +58,7 @@ summary = '「～だろう」という意味を表す推量法の詳細'
 {{< gloss
     source="tow'i dikene na'e tayrighewde"
     sentence="tow'i dike-ne na'e tay-r-i-ghew-de"
-    gloss="もしかしたら 1SG.N-NOM そのように 言う-PST-INFER-CONJC-1.AN"
+    gloss="もしかしたら 1SG.N-NOM.AN そのように 言う-PST-INFER-CONJC-1.AN"
     translation="私はもしかしたらそう言ったかもしれない"
 >}}
 
