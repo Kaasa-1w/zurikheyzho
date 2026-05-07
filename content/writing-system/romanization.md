@@ -67,20 +67,20 @@ summary = 'ラテン文字での表記方法について'
 
 {{< table >}}
     ラテン文字 | 発音記号(IPA)
-    ja | /i̯a/
-    je | /i̯e/
-    jo | /i̯o/
-    ju | /i̯u/
-    wa | /u̯a/
-    we | /u̯e/
-    wo | /u̯o/
-    wi | /u̯i/
+    ia | /i̯a/
+    ie | /i̯e/
+    io | /i̯o/
+    iu | /i̯u/
+    ua | /u̯a/
+    ue | /u̯e/
+    uo | /u̯o/
+    ui | /u̯i/
     >&
     ラテン文字 | 発音記号(IPA)
-    aj | /ai̯/
-    ej | /ei̯/
-    oj | /oi̯/
-    uj | /ui̯/
+    ay | /ai̯/
+    ey | /ei̯/
+    oy | /oi̯/
+    uy | /ui̯/
     aw | /au̯/
     ew | /eu̯/
     ow | /ou̯/

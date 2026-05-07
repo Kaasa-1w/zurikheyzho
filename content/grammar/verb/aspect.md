@@ -17,7 +17,7 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 {{< table >}}
     相 | 接尾辞
     単純相 | -Ø
-    結果相 | -syo
+    結果相 | -sio
     経験相 | -uu
     進行相 | -ay
     習慣相 | -low
@@ -42,8 +42,8 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 この不整合を解消するため、単純相現在時制では基準時点の解釈が拡張され、特定の時点に限定されない一般的・普遍的な事実や性質を表す用法が成立する。
 
 {{< gloss
-    source="row ngo cey'oy khwitelhe"
-    sentence="row-Ø ngo cey-'oy khwi-Ø-te-lhe"
+    source="row ngo cey'oy khuitelhe"
+    sentence="row-Ø ngo cey-'oy khui-Ø-te-lhe"
     gloss="水-NOM.INAN 0 ℃-INS 凍る-SIMP-PRS.DIR-3.INAN"
     translation="水は0℃で凍る"
 >}}
@@ -52,8 +52,8 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 これらは特定の時点に局所化されにくく、時間的に広がりをもつ性質として解釈されるためである。
 
 {{< gloss
-    source="dikene fashyanuu fotede"
-    sentence="dike-ne fashyanu-u fo-Ø-te-de"
+    source="dikene fashianuu fotede"
+    sentence="dike-ne fashianu-u fo-Ø-te-de"
     gloss="1SG.N-NOM.AN リンゴ-ACC.INAN 食べる-SIMP-PRS.DIR-1.AN"
     translation="私はリンゴを食べる"
 >}}
@@ -76,8 +76,8 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 このとき、事態はその内部構造には立ち入らず、全体として完結したものとして提示されるのが基本である。
 
 {{< gloss
-    source="roypay thoy'wi 'oghone ce tareke"
-    sentence="roypa-y thoy-'wi 'ogho-ne ce ta-Ø-re-ke"
+    source="roypay thoy'ui 'oghone ce tareke"
+    sentence="roypa-y thoy-'ui 'ogho-ne ce ta-Ø-re-ke"
     gloss="昨日-GEN パーティー-LOC 3SG.M-NOM.AN ADD いる-SIMP-PST.DIR-3.AN"
     translation="昨日のパーティーには彼もいたよ"
 >}}
@@ -88,8 +88,8 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 単純相と組み合わさる場合、その未来の基準時点において一まとまりの出来事として把握される事態が成立すると予測されることを表す。
 
 {{< gloss
-    source="tejwe khipay gya zhaw'yo takhelhe"
-    sentence="tejwe-Ø khipa-y gya zhaw-'yo ta-Ø-khe-lhe"
+    source="tejue khipay gia zhaw'io takhelhe"
+    sentence="tejue-Ø khipa-y gia zhaw-'io ta-Ø-khe-lhe"
     gloss="打ち合わせ-NOM.INAN 明日-GEN 11 時-ABL ある-SIMP-FUT.DIR-3.INAN"
     translation="明日は11時から打ち合わせがある"
 >}}
