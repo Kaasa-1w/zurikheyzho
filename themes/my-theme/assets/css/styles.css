@@ -76,6 +76,11 @@ p>a, .section-inner a {
     border-top: 0.2rem solid #7ed957;
     display: grid;
     grid-template-columns: auto 1fr;
+    overflow-x: auto;
+}
+
+.example>div {
+    width: max-content;
 }
 
 .example p {
@@ -103,18 +108,25 @@ p>a, .section-inner a {
     width: 100%;
     display: flex;
     justify-content: center;
+}
+
+.sect-table>div {
+    display: flex;
     align-items: flex-start;
+    overflow-x: auto;
 }
 
 table {
     border-collapse: collapse;
     margin: 1rem;
+    width: max-content;
 }
 
 table th,
 table td {
     border: 0.1rem solid #1a242f;
     padding: 0.3rem 0.6rem;
+    white-space: nowrap;
 }
 
 table th {
