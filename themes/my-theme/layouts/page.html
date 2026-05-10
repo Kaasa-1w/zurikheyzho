@@ -5,7 +5,13 @@
             <h1>{{ .Title }}</h1>
 
             {{- $date := .Date | time.Format "2006-01-02" }}
-            <time datetime="{{ $date }}">{{ $date }}</time>
+            {{- $lastmod := .Lastmod | time.Format "2006-01-02" }}
+            <div class="date">
+                作成日:
+                <time datetime="{{ $date }}">{{ $date }}</time>
+                &nbsp;最終更新日:
+                <time datetime="{{ $lastmod }}">{{ $lastmod }}</time>
+            </div>
 
             <div class="section-inner">
                 {{ .Content }}

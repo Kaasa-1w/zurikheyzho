@@ -9,3 +9,6 @@ enableRobotsTXT = true
     
 [markup.goldmark.parser]
     autoHeadingID = false
+
+[frontmatter]
+    lastmod = ['lastmod', ':fileModTime']
