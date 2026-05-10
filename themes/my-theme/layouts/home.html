@@ -42,7 +42,7 @@
             </div>
             <div class="info-inner">
                 <h2><span>HISTORY</span></h2>
-                {{- range first 5 site.RegularPages.ByDate.Reverse }}
+                {{- range first 5 site.RegularPages.ByLastmod.Reverse }}
                     <div class="history">
                         <span>{{ .Date.Format "2006-01-02" }}</span>
                         <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
