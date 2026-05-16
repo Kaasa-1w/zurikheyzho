@@ -14,9 +14,8 @@ summary = '当サイトで使っているグロスの略号の一覧です。'
     3 | 3人称 | third person
     SG | 単数 | singular
     PL | 複数 | plural
-    M | 男性 | masculine gender
-    F | 女性 | feminine gender
-    N | 中性 | neuter gender
+    AN | 有生物 | animate gender
+    INAN | 無生物 | inanimate gender
     >&
     略号 | 意味 | 備考
     NOM | 主格 | nominative case
@@ -41,6 +40,8 @@ summary = '当サイトで使っているグロスの略号の一覧です。'
     PRS | 現在時制 | present tense
     PST | 過去時制 | past tense
     FUT | 未来時制 | future tense
+    NMZ | 名詞化形 | nominalization
+    CVB | 接続形 | converb
     >&
     略号 | 意味 | 備考
     DIR | 直接証拠 | direct evidential
@@ -58,8 +59,6 @@ summary = '当サイトで使っているグロスの略号の一覧です。'
 
 {{< table rowHeader="true" >}}
     略号 | 意味 | 備考
-    AN | 有生物 | animate
-    INAN | 無生物 | inanimate
     DEM | 指示詞 | demonstrative
     PROX | 近称 | proximal
     MED | 中称 | medial
@@ -69,4 +68,8 @@ summary = '当サイトで使っているグロスの略号の一覧です。'
     DISJ | 選択（接続詞） | disjunction
     RESULT | 結果（接続詞） | result
     ADD | 追加（接続詞） | additive
+    SUB | 従属標識 | subordinate marker
+    TEMP | 時間 | temporal subordinate marker
+    COND | 条件 | conditional subordinate marker
+    CONC | 譲歩 | concessive subordinate marker
 {{< /table >}}
