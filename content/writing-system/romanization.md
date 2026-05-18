@@ -67,16 +67,6 @@ summary = 'ラテン文字での表記方法について'
 
 {{< table >}}
     ラテン文字 | 発音記号(IPA)
-    ia | /i̯a/
-    ie | /i̯e/
-    io | /i̯o/
-    iu | /i̯u/
-    ua | /u̯a/
-    ue | /u̯e/
-    uo | /u̯o/
-    ui | /u̯i/
-    >&
-    ラテン文字 | 発音記号(IPA)
     ay | /ai̯/
     ey | /ei̯/
     oy | /oi̯/

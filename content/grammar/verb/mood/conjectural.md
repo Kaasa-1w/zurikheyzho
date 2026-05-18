@@ -45,8 +45,8 @@ summary = '「～だろう」という意味を表す推量法の詳細'
 伝聞証拠との組み合わせでは、不確実性の高い、弱い推量を表す。
 
 {{< gloss
-    source="litio'i roy'uy thueri kuu'uo sikhoghewlhe"
-    sentence="litio-'i roy-'uy thueri kuu'uo-Ø si-kh-o-ghew-lhe"
+    source="litio'i royuy thueri kuu'uo sikhoghewlhe"
+    sentence="litio-'i roy-uy thueri kuu'uo-Ø si-kh-o-ghew-lhe"
     gloss="駅-GEN 前-LOC 新しい カフェ-NOM.INAN 開店する-FUT-REP-CONJC-3.INAN"
     translation="駅前に新しくカフェができるらしい（という噂を聞いた）"
 >}}
@@ -56,8 +56,8 @@ summary = '「～だろう」という意味を表す推量法の詳細'
 推論証拠との組み合わせでは、不確実性が中～高程度の推量を表す。
 
 {{< gloss
-    source="tow'i dikene na'e tayrighewde"
-    sentence="tow'i dike-ne na'e tay-r-i-ghew-de"
+    source="towi dikene na'e tayrighewde"
+    sentence="towi dike-ne na'e tay-r-i-ghew-de"
     gloss="もしかしたら 1-NOM.AN そのように 言う-PST-INFER-CONJC-1.AN"
     translation="私はもしかしたらそう言ったかもしれない"
 >}}

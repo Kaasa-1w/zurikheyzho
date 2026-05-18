@@ -43,8 +43,8 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 この不整合を解消するため、単純相現在時制では基準時点の解釈が拡張され、特定の時点に限定されない一般的・普遍的な事実や性質を表す用法が成立する。
 
 {{< gloss
-    source="row ngo cey'oy khuitelhe"
-    sentence="row-Ø ngo cey-'oy khui-Ø-te-lhe"
+    source="row ngo ceyoy khuitelhe"
+    sentence="row-Ø ngo cey-oy khui-Ø-te-lhe"
     gloss="水-NOM.INAN 0 ℃-INS 凍る-SIMP-PRS.DIR-3.INAN"
     translation="水は0℃で凍る"
 >}}
@@ -75,8 +75,8 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 過去時制では、基準時点が発話時点より前に設定され、その過去の基準時点において一まとまりの出来事として把握される事態が成立したことを表す。
 
 {{< gloss
-    source="roypay thoy'uy 'oghone ce tareke"
-    sentence="roypa-y thoy-'uy 'ogho-ne ce ta-Ø-re-ke"
+    source="roypay thoyuy 'oghone ce tareke"
+    sentence="roypa-y thoy-uy 'ogho-ne ce ta-Ø-re-ke"
     gloss="昨日-GEN パーティー-LOC 3-NOM.AN ADD いる-SIMP-PST.DIR-3.AN"
     translation="昨日のパーティーには彼もいたよ"
 >}}
@@ -86,8 +86,8 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 未来時制では、基準時点が発話時点より後に設定され、その未来の基準時点において一まとまりの出来事として把握される事態が成立すると予測されることを表す。
 
 {{< gloss
-    source="tejue khipay gia zhaw'io takhelhe"
-    sentence="tejue-Ø khipa-y gia zhaw-'io ta-Ø-khe-lhe"
+    source="tejue khipay gia zhawi'o takhelhe"
+    sentence="tejue-Ø khipa-y gia zhaw-i'o ta-Ø-khe-lhe"
     gloss="打ち合わせ-NOM.INAN 明日-GEN 11 時-ABL ある-SIMP-FUT.DIR-3.INAN"
     translation="明日は11時から打ち合わせがある"
 >}}
@@ -96,8 +96,8 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 ただし、この場合も焦点はあくまで事態全体の成立にあり、進行中の過程そのものは明示的には表されない。
 
 {{< gloss
-    source="dikene khinaw'a dii 'aydhuu loyvekhede"
-    sentence="dike-ne khinaw-'a dii 'aydhu-u loyve-Ø-khe-de"
+    source="dikene khinawa dii 'aydhuu loyvekhede"
+    sentence="dike-ne khinaw-a dii 'aydhu-u loyve-Ø-khe-de"
     gloss="1-NOM.AN 来週-ALL DEM.PROX 課題-ACC.INAN 終える-SIMP-FUT.DIR-1.AN"
     translation="来週までにこのレポートを仕上げる"
 >}}
@@ -176,8 +176,8 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 これは「その時点までに少なくとも一度は経験するだろう」という含意を持つ。
 
 {{< gloss
-    source="dikene tovayzie sew'a khay'u'uukhide"
-    sentence="dike-ne tovayzie sew-'a khay'u-'uu-kh-i-de"
+    source="dikene tovayzie sewa khayu'uukhide"
+    sentence="dike-ne tovayzie sew-a khayu-'uu-kh-i-de"
     gloss="1-NOM.AN 30 歳-ALL 結婚する-EXP-FUT-INFER-1.AN"
     translation="30歳までには結婚するよ"
 >}}
@@ -192,8 +192,8 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 現在時制では、基準時点を発話時点に一致する一点として設定し、発話時点において動作が進行中であることを表す。
 
 {{< gloss
-    source="'oghone fiu'uy they'u jitodi'ayteke"
-    sentence="'ogho-ne fiu-'uy they-'u jitodi-'ay-te-ke"
+    source="'oghone fiu'uy theyu jitodiayteke"
+    sentence="'ogho-ne fiu-'uy they-u jitodi-ay-te-ke"
     gloss="3-NOM.AN 今-LOC 本-ACC.INAN 読む-PROG-PRS.DIR-3.AN"
     translation="彼は今、本を読んでいる"
 >}}
@@ -204,8 +204,8 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 このとき、当該動作が発話時点において継続しているか否かは規定されない。
 
 {{< gloss
-    source="dikey muo'a ghiregu'uuli, 'osene thetow'i foguu va'ayreke"
-    sentence="dike-y muo-'a ghi-re-gu-'uuli 'ose-ne thetow-'i fogu-u va-'ay-re-ke"
+    source="dikey muo'a ghiregu'uuli, 'osene thetowi foguu va'ayreke"
+    sentence="dike-y muo-'a ghi-re-gu-'uuli 'ose-ne thetow-i fogu-u va-'ay-re-ke"
     gloss="1-GEN 家-ALL 着く-PST-NMZ-TEMP 3-NOM.AN 夕方-GEN 食事-ACC.INAN 作る-PROG-PST.DIR-3.AN"
     translation="家に着いたとき、彼女は夕食を作っていた"
 >}}
@@ -255,8 +255,8 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 未来時制では、基準時点が発話時点より後に設定され、その未来の基準時点において当該事態が習慣的に生起する傾向が成立していると予測されることを表す。
 
 {{< gloss
-    source="'osene khisuy'o ditio'uy neelowkheke"
-    sentence="'ose-ne khisu-y'o ditio-'uy nee-low-khe-ke"
+    source="'osene khisuyo ditio'uy neelowkheke"
+    sentence="'ose-ne khisu-yo ditio-'uy nee-low-khe-ke"
     gloss="3-NOM.AN 来月-ABL ここ-LOC 働く-HAB-FUT.DIR-3.AN"
     translation="彼女は来月からここで働くことになる"
 >}}
