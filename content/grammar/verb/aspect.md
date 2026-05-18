@@ -32,11 +32,12 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 
 単純相は最も基本的な相であり、形態的には接尾辞を伴わない無標形式によって表される。
 単純相は、事態を一つのまとまりをもつ出来事として把握し、その内部時間構造（進行過程）や反復性、結果状態には焦点を当てない。
-そのため、解釈としては文脈に応じて完結的（完結相的）に理解されることが多いが、完了や結果状態の成立を明示的に表すものではない。
+単純相は、事態を全体的に提示する相であり、完了や結果状態の成立を明示的に表すものではない。
+そのため、動作動詞では完結的に解釈されやすい一方、状態動詞では単なる状態描写として解釈される。
 
 ### 単純相 × 現在
 
-現在時制は、基準時点を発話時点に一致する一点として設定する。
+現在時制では、基準時点を発話時点に一致する一点として設定する。
 このとき、事態を開始から終了までを含む一まとまりの出来事として把握する単純相と、その点的な基準時点とのあいだには整合性の問題が生じる。<br>
 すなわち、事態全体を捉えるには時間的広がりが必要であるのに対し、現在時制は本来的に時間的広がりをもたないためである。<br>
 この不整合を解消するため、単純相現在時制では基準時点の解釈が拡張され、特定の時点に限定されない一般的・普遍的な事実や性質を表す用法が成立する。
@@ -54,7 +55,7 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 {{< gloss
     source="dikene fashianuu fotede"
     sentence="dike-ne fashianu-u fo-Ø-te-de"
-    gloss="1SG.N-NOM.AN リンゴ-ACC.INAN 食べる-SIMP-PRS.DIR-1.AN"
+    gloss="1-NOM.AN リンゴ-ACC.INAN 食べる-SIMP-PRS.DIR-1.AN"
     translation="私はリンゴを食べる"
 >}}
 
@@ -71,21 +72,18 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 
 ### 単純相 × 過去
 
-過去時制では、基準時点が発話時点より前に設定される。<br>
-単純相と組み合わさる場合、その過去の基準時点において一まとまりの出来事として把握される事態が成立したことを表す。<br>
-このとき、事態はその内部構造には立ち入らず、全体として完結したものとして提示されるのが基本である。
+過去時制では、基準時点が発話時点より前に設定され、その過去の基準時点において一まとまりの出来事として把握される事態が成立したことを表す。
 
 {{< gloss
-    source="roypay thoy'ui 'oghone ce tareke"
-    sentence="roypa-y thoy-'ui 'ogho-ne ce ta-Ø-re-ke"
-    gloss="昨日-GEN パーティー-LOC 3SG.M-NOM.AN ADD いる-SIMP-PST.DIR-3.AN"
+    source="roypay thoy'uy 'oghone ce tareke"
+    sentence="roypa-y thoy-'uy 'ogho-ne ce ta-Ø-re-ke"
+    gloss="昨日-GEN パーティー-LOC 3-NOM.AN ADD いる-SIMP-PST.DIR-3.AN"
     translation="昨日のパーティーには彼もいたよ"
 >}}
 
 ### 単純相 × 未来
 
-未来時制では、基準時点が発話時点より後に設定される。<br>
-単純相と組み合わさる場合、その未来の基準時点において一まとまりの出来事として把握される事態が成立すると予測されることを表す。
+未来時制では、基準時点が発話時点より後に設定され、その未来の基準時点において一まとまりの出来事として把握される事態が成立すると予測されることを表す。
 
 {{< gloss
     source="tejue khipay gia zhaw'io takhelhe"
@@ -100,7 +98,7 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 {{< gloss
     source="dikene khinaw'a dii 'aydhuu loyvekhede"
     sentence="dike-ne khinaw-'a dii 'aydhu-u loyve-Ø-khe-de"
-    gloss="1SG.N-NOM.AN 来週-ALL DEM.PROX 課題-ACC.INAN 終える-SIMP-FUT.DIR-1.AN"
+    gloss="1-NOM.AN 来週-ALL DEM.PROX 課題-ACC.INAN 終える-SIMP-FUT.DIR-1.AN"
     translation="来週までにこのレポートを仕上げる"
 >}}
 
@@ -111,55 +109,118 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 
 ### 結果相 × 現在
 
-基準時点が発話時点に一致する場合、発話時点において結果状態が成立していることを表す。
+現在時制では、基準時点を発話時点に一致する一点として設定し、発話時点において結果状態が成立していることを表す。
+
+{{< gloss
+    source="khookui sisiotelhe"
+    sentence="khookui-Ø si-sio-te-lhe"
+    gloss="窓-NOM.INAN 開く-RES-PRS.DIR-3.INAN"
+    translation="窓が開いている"
+>}}
 
 ### 結果相 × 過去
 
-基準時点が発話時点より前に設定される場合、その過去の基準時点において結果状態が成立していたことを表す。<br>
+過去時制では、基準時点が発話時点より前に設定され、その過去の基準時点において結果状態が成立していたことを表す。<br>
 当該結果状態が発話時点においても維持されているか否かは規定されない。
+
+{{< gloss
+    source="nalui'uy, nay zeydu jawsiorelhe"
+    sentence="nalui-'uy nay zeydu-Ø jaw-sio-re-lhe"
+    gloss="その時-LOC DEM.MED 橋-NOM.INAN 壊れる-RES-PST.DIR-3.INAN"
+    translation="当時、その橋は壊れていた"
+>}}
 
 ### 結果相 × 未来
 
-基準時点が発話時点より後に設定される場合、その未来の基準時点において結果状態が成立していると予測されることを表す。<br>
+未来時制では、基準時点が発話時点より後に設定され、その未来の基準時点において結果状態が成立していると予測されることを表す。<br>
 当該結果状態が発話時点以前にすでに成立しているか否かは規定されない。
+
+{{< gloss
+    source="'osene khipay thezew'uy ngue ghisiokhike"
+    sentence="'ose-ne khipa-y thezew-'uy ngue ghi-sio-kh-i-ke"
+    gloss="3-NOM.AN 明日-GEN 朝-LOC すでに 着く-RES-FUT-INFER-3.AN"
+    translation="明日の朝には彼女はもう到着している"
+>}}
 
 ## 経験相
 
-経験相は、ある種の事態が少なくとも一度は成立したという経験の有無に焦点を当て、基準時点までの期間における事態の生起経験を表す。<br>
+経験相は、ある種の事態が少なくとも一度は成立したという経験の有無に焦点を当て、基準時点までの期間における事態の生起経験を表す。
 個々の出来事の時点や回数は通常、明示されない。
 
 ### 経験相 × 現在
 
-基準時点が発話時点に一致する場合、発話時点までの期間において当該事態の経験があることを表す。
+現在時制では、基準時点を発話時点に一致する一点として設定し、発話時点までの期間において当該事態の経験があることを表す。
+
+{{< gloss
+    source="dikene piushuy 'u'uutede"
+    sentence="dike-ne piush-uy 'u-'uu-te-de"
+    gloss="1-NOM.AN ピウショ-LOC 住む-EXP-PRS.DIR-1.AN"
+    translation="ピウショに住んだことがある"
+>}}
 
 ### 経験相 × 過去
 
-基準時点が発話時点より前に設定される場合、その過去の基準時点までの期間において当該事態の経験があったことを表す。
+過去時制では、基準時点が発話時点より前に設定され、その過去の基準時点までの期間において当該事態の経験があったことを表す。
 その経験が発話時点においても有効であるか（記憶・能力などとして保持されているか）は規定されない。
+
+{{< gloss
+    source="dikene nalui'uy nalhuu so'uurengude"
+    sentence="dike-ne nalui-'uy nalhu-u so-'uu-re-ngu-de"
+    gloss="1-NOM.AN その時-LOC そのこと-ACC.INAN 聞く-EXP-PST-NEG.DIR-1.AN"
+    translation="当時はそんなこと聞いたこともなかった"
+>}}
 
 ### 経験相 × 未来
 
-基準時点が発話時点より後に設定される場合、その未来の基準時点までの期間において当該事態の経験が成立していると予測されることを表す。
+未来時制では、基準時点が発話時点より後に設定され、その未来の基準時点までの期間において当該事態の経験が成立していると予測されることを表す。
 これは「その時点までに少なくとも一度は経験するだろう」という含意を持つ。
+
+{{< gloss
+    source="dikene tovayzie sew'a khay'u'uukhide"
+    sentence="dike-ne tovayzie sew-'a khay'u-'uu-kh-i-de"
+    gloss="1-NOM.AN 30 歳-ALL 結婚する-EXP-FUT-INFER-1.AN"
+    translation="30歳までには結婚するよ"
+>}}
 
 ## 進行相
 
-進行相は、事態の内部時間構造における進行中の段階に焦点を当て、基準時点において当該事態が未完了のまま進行中であることを表す。<br>
-ここでいう基準時点は、時制によって定まる。
+進行相は、事態の内部時間構造における進行中の段階に焦点を当て、基準時点において当該事態が未完了のまま進行中であることを表す。
+また、進行相が状態動詞と共起した場合、状態の内部時間に焦点を当て、基準時点においてその状態が継続中であることを表す。
 
 ### 進行相 × 現在
 
-基準時点が発話時点に一致する場合、発話時点において動作が進行中であることを表す。
+現在時制では、基準時点を発話時点に一致する一点として設定し、発話時点において動作が進行中であることを表す。
+
+{{< gloss
+    source="'oghone fiu'uy they'u jitodi'ayteke"
+    sentence="'ogho-ne fiu-'uy they-'u jitodi-'ay-te-ke"
+    gloss="3-NOM.AN 今-LOC 本-ACC.INAN 読む-PROG-PRS.DIR-3.AN"
+    translation="彼は今、本を読んでいる"
+>}}
 
 ### 進行相 × 過去
 
-基準時点が発話時点より前に設定される場合、その過去の基準時点において動作が進行中であったことを表す。<br>
+過去時制では、基準時点が発話時点より前に設定され、その過去の基準時点において動作が進行中であったことを表す。<br>
 このとき、当該動作が発話時点において継続しているか否かは規定されない。
+
+{{< gloss
+    source="dikey muo'a ghiregu'uuli, 'osene thetow'i foguu va'ayreke"
+    sentence="dike-y muo-'a ghi-re-gu-'uuli 'ose-ne thetow-'i fogu-u va-'ay-re-ke"
+    gloss="1-GEN 家-ALL 着く-PST-NMZ-TEMP 3-NOM.AN 夕方-GEN 食事-ACC.INAN 作る-PROG-PST.DIR-3.AN"
+    translation="家に着いたとき、彼女は夕食を作っていた"
+>}}
 
 ### 進行相 × 未来
 
-基準時点が発話時点より後に設定される場合、その未来の基準時点において動作が進行中であると予測されることを表す。<br>
+未来時制では、基準時点が発話時点より後に設定され、その未来の基準時点において動作が進行中であると予測されることを表す。<br>
 このとき、当該動作が発話時点において既に開始しているか否かは規定されない。
+
+{{< gloss
+    source="dikethone khipay dilui'uy khemiilhu'uy zeitaykhede"
+    sentence="diketho-ne khipa-y dilui-'uy khemiilhu-'uy zeit-ay-khe-de"
+    gloss="1PL-NOM.AN 明日-GEN この時間-LOC 飛行機-LOC 乗る-PROG-FUT.DIR-1.AN"
+    translation="明日のこの時間、私たちは飛行機に乗っている"
+>}}
 
 ## 習慣相
 
@@ -168,13 +229,34 @@ summary = 'ヘイソウ語の相の種類と時制との組み合わせについ
 
 ### 習慣相 × 現在
 
-基準時点が発話時点に一致する場合、発話時点において当該事態が習慣的に生起する傾向があることを表す。
+現在時制では、基準時点を発話時点に一致する一点として設定し、発話時点において当該事態が習慣的に生起する傾向があることを表す。
+
+{{< gloss
+    source="dikene sibiotheze'uy durivuu folowtede"
+    sentence="dike-ne sibiotheze-'uy durivu-u fo-low-te-de"
+    gloss="1-NOM.AN 毎朝-LOC パン-ACC.INAN 食べる-HAB-PRS.DIR-1.AN"
+    translation="私は毎朝パンを食べる"
+>}}
 
 ### 習慣相 × 過去
 
-基準時点が発話時点より前に設定される場合、その過去の基準時点において当該事態が習慣的に生起する傾向があったことを表す。<br>
+過去時制では、基準時点が発話時点より前に設定され、その過去の基準時点において当該事態が習慣的に生起する傾向があったことを表す。<br>
 その習慣が発話時点においても継続しているか否かは規定されない。
+
+{{< gloss
+    source="tuy lui'uy, dikene sibiopa'uy lhetio'uy tawkhaykoy porelowrede"
+    sentence="tu-y lui-'uy dike-ne sibiopa-'uy lhetio-'uy tawkhayk-oy pore-low-re-de"
+    gloss="子供-GEN とき-LOC 1-NOM.AN 毎日-LOC 公園-LOC 友達-INS 遊ぶ-HAB-PST.DIR-1.AN"
+    translation="子供のころ、毎日公園で友達と遊んでいた"
+>}}
 
 ### 習慣相 × 未来
 
-基準時点が発話時点より後に設定される場合、その未来の基準時点において当該事態が習慣的に生起する傾向が成立していると予測されることを表す。
+未来時制では、基準時点が発話時点より後に設定され、その未来の基準時点において当該事態が習慣的に生起する傾向が成立していると予測されることを表す。
+
+{{< gloss
+    source="'osene khisuy'o ditio'uy neelowkheke"
+    sentence="'ose-ne khisu-y'o ditio-'uy nee-low-khe-ke"
+    gloss="3-NOM.AN 来月-ABL ここ-LOC 働く-HAB-FUT.DIR-3.AN"
+    translation="彼女は来月からここで働くことになる"
+>}}
