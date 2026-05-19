@@ -57,15 +57,19 @@ p>a, .section-inner a {
 }
 
 .section-inner ol {
-    list-style: decimal inside;
+    list-style: decimal outside;
     margin-bottom: 1rem;
-    padding: 0 1rem;
+    padding: 0 1rem 0 3rem;
 }
 
 .section-inner ul {
-    list-style: disc inside;
+    list-style: disc outside;
     margin-bottom: 1rem;
-    padding: 0 1rem;
+    padding: 0 1rem 0 3rem;
+}
+
+.section-inner li {
+    padding-left: 0.5rem;
 }
 
 .example {
