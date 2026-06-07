@@ -63,13 +63,14 @@ summary = '当サイトで使っているグロスの略号の一覧です。'
     PROX | 近称 | proximal
     MED | 中称 | medial
     DIST | 遠称 | distal
-    COORD | 並列（接続詞） | coordination
-    CNTR | 逆接（接続詞） | contrast
-    DISJ | 選択（接続詞） | disjunction
-    RESULT | 結果（接続詞） | result
-    ADD | 追加（接続詞） | additive
-    SUB | 従属標識 | subordinate marker
-    TEMP | 時間 | temporal subordinate marker
-    COND | 条件 | conditional subordinate marker
-    CONC | 譲歩 | concessive subordinate marker
+    COORD | 等位接続詞 | coordinator
+    COPL | 並列（接続詞） | copulative coordinator
+    ADVS | 逆接（接続詞） | adversative coordinator
+    DISJ | 選択（接続詞） | disjunctive coordinator
+    CONS | 結果（接続詞） | consecutive coordinator
+    ADD | 追加（接続詞） | additive coordinator
+    SUB | 従属標識 | subordinator
+    TEMP | 時間 | temporal subordinator
+    COND | 条件 | conditional subordinator
+    CONC | 譲歩 | concessive subordinator
 {{< /table >}}
