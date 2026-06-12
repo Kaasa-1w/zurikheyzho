@@ -53,6 +53,7 @@ summary = '当サイトで使っているグロスの略号の一覧です。'
     OBLG | 義務法 | obligative mood
     VOL | 意志法 | volitional mood
     IMP | 命令法 | imperative mood
+    COP | コピュラ動詞 | copula
 {{< /table >}}
 
 ## その他
