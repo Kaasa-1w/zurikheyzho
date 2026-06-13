@@ -35,10 +35,10 @@ weight = 30
 直接証拠との組み合わせでは、不確実性の低い、強い推量を表す。
 
 {{< gloss
-    source="'otio'uy 'oghone tareghewke"
+    source="'otio'uy 'oghone tareghewke."
     sentence="'otio-'uy 'ogho-ne ta-re-Ø-ghew-ke"
     gloss="あの場所-LOC 3-NOM.AN 存在する-PST-DIR-CONJC-3.AN"
-    translation="彼はあの場にいたはずだ"
+    translation="彼はあの場にいたはずだ。"
 >}}
 
 ### 推量法 × 伝聞証拠
@@ -46,10 +46,10 @@ weight = 30
 伝聞証拠との組み合わせでは、不確実性の高い、弱い推量を表す。
 
 {{< gloss
-    source="litio'i royuy thueri kuu'uo sikhoghewlhe"
-    sentence="litio-'i roy-uy thueri kuu'uo-Ø si-kh-o-ghew-lhe"
-    gloss="駅-GEN 前-LOC 新しい カフェ-NOM.INAN 開店する-FUT-REP-CONJC-3.INAN"
-    translation="駅前に新しくカフェができるらしい（という噂を聞いた）"
+    source="'oghone ngue puorusiotoghewke."
+    sentence="'ogho-ne ngue puoru-sio-t-o-ghew-ke"
+    gloss="3-NOM.AN すでに 帰る-RES-PRS-REP-CONJC-3.AN"
+    translation="彼はもう帰ったらしい。"
 >}}
 
 ### 推量法 × 推論証拠
@@ -57,12 +57,12 @@ weight = 30
 推論証拠との組み合わせでは、不確実性が中～高程度の推量を表す。
 
 {{< gloss
-    source="towi dikene na'e tayrighewde"
+    source="towi dikene na'e tayrighewde."
     sentence="towi dike-ne na'e tay-r-i-ghew-de"
     gloss="もしかしたら 1-NOM.AN そのように 言う-PST-INFER-CONJC-1.AN"
-    translation="私はもしかしたらそう言ったかもしれない"
+    translation="私はもしかしたらそう言ったかもしれない。"
 >}}
 
 ## 反事実法との関係
 
-条件文において条件節に反事実法が用いられたとき、主節では推量法を用いて、その条件下で成立すると推論される帰結を示す。
+条件文において条件節に[反事実法]({{< relref "grammar/verb/mood/counterfactual" >}})が用いられたとき、主節では推量法を用いて、その条件下で成立すると推論される帰結を示す。
