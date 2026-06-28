@@ -44,6 +44,9 @@ summary = '当サイトで使っているグロスの略号の一覧です。'
     CVB | 接続形 | converb
     >&
     略号 | 意味 | 備考
+    POT | 可能態 | potential
+    PASS | 受動態 | passive
+    CAUS | 使役態 | causative
     DIR | 直接証拠 | direct evidential
     REP | 伝聞証拠 | reportative evidential
     INFER | 推論証拠 | inferential evidential
@@ -74,4 +77,5 @@ summary = '当サイトで使っているグロスの略号の一覧です。'
     TEMP | 時間 | temporal subordinator
     COND | 条件 | conditional subordinator
     CONC | 譲歩 | concessive subordinator
+    ADVZ | 副詞化接辞 | adverbializer
 {{< /table >}}
