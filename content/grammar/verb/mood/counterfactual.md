@@ -46,6 +46,13 @@ weight = 20
 
 「もし（今）～なら、（今）～だろう」
 
+{{< gloss
+    source="dikene sane katebiadiife, nake'a siekhetighewde."
+    sentence="dike-ne sa-ne ka-te-bia-d-iife nake-'a sie-khe-t-i-ghew-de"
+    gloss="1-NOM.AN 鳥-NOM.AN COP-PRS-CNTF-1.AN-COND 2-ALL POT-飛ぶ-PRS-INFER-CONJC-1.AN"
+    translation="もし私が鳥だったら、あなたのところに飛んでいけるのに。"
+>}}
+
 ### 反事実法過去
 
 - 条件節：過去
@@ -58,6 +65,13 @@ weight = 20
 #### 意味：
 
 「もし（あのとき）～だったなら、～だっただろう」
+
+{{< gloss
+    source="dikene zeyduee ruuoy jidirebiadiife, 'aydhuu siezeyduerighewde."
+    sentence="dike-ne zeyduee ruuoy jidi-re-bia-d-iife 'aydhu-u sie-zeydue-r-i-ghew-de"
+    gloss="1-NOM.AN もっと 力を入れて 学ぶ-PST-CNTF-1.AN-COND 試験-ACC.INAN POT-越える-PST-INFER-CONJC-1.AN"
+    translation="もしもっと一生懸命勉強していたら、試験に合格できただろうに。"
+>}}
 
 ### 反事実法現在帰結
 
@@ -72,6 +86,13 @@ weight = 20
 
 「もし（あのとき）～だったなら、（今）～だろう」
 
+{{< gloss
+    source="dikene roypa'uy thezee lhirebiadiife, dicee guori katighewde."
+    sentence="dike-ne roypa-'uy theze-e lhi-re-bia-d-iife dicee guori ka-t-i-ghew-de"
+    gloss="1-NOM.AN 昨日-LOC 早い-ADVZ 寝る-PST-CNTF-1.AN-COND こんなに 疲れている COP-PRS-INFER-CONJC-1.AN"
+    translation="もし昨日早く寝ていたら、こんなに疲れていないだろうに。"
+>}}
+
 ### 反事実法未来帰結
 
 - 条件節：現在
@@ -84,6 +105,13 @@ weight = 20
 #### 意味：
 
 「もし（仮に）～なら、（将来）～だろう」
+
+{{< gloss
+    source="'oghone khinawi khimiia muutebiakiife, nalhu thawghikhighewlhe."
+    sentence="'ogho-ne khinaw-i khimii-a muu-te-bia-k-iife nalhu-Ø thawghi-kh-i-ghew-lhe"
+    gloss="3-NOM.AN 来週-GEN 計画-ALL 参加する-PRS-CNTF-3.AN-COND それ-NOM.INAN 成功する-FUT-INFER-CONJC-3.INAN"
+    translation="もし彼が参加するなら、来週の計画は成功するだろうに。"
+>}}
 
 ## 直説法との対立
 

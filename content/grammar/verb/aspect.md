@@ -193,8 +193,8 @@ weight = 20
 現在時制では、基準時点を発話時点に一致する一点として設定し、発話時点において動作が進行中であることを表す。
 
 {{< gloss
-    source="'oghone fiu'uy theyu jitodiayteke"
-    sentence="'ogho-ne fiu-'uy they-u jitodi-ay-te-ke"
+    source="'oghone fiu'uy theyu jitowdiayteke"
+    sentence="'ogho-ne fiu-'uy they-u jitowdi-ay-te-ke"
     gloss="3-NOM.AN 今-LOC 本-ACC.INAN 読む-PROG-PRS.DIR-3.AN"
     translation="彼は今、本を読んでいる"
 >}}
