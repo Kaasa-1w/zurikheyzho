@@ -20,5 +20,31 @@ weight = 60
     自由 | 使用不可 | 使用不可 | 2人称
 {{< /table >}}
 
-命令法の主語は2人称に限定され、普通省略される。
+命令法は聞き手に対する指示として解釈され、主語は2人称に固定される。
+従って、命令法は一致接辞を必要としない。
 また、時制・証拠性と共起しない。
+
+{{< gloss
+    source="lhozoo."
+    sentence="lho-zoo"
+    gloss="座る-IMP"
+    translation="座れ。"
+>}}
+
+禁止表現は命令法の否定として表される。
+
+{{< gloss
+    source="ninguzoo!"
+    sentence="ni-ngu-zoo"
+    gloss="動く-NEG-IMP"
+    translation="動くな！"
+>}}
+
+依頼の表現は名詞化節と動詞 mui'aa（欲する）を用いた依頼構文で表される。
+
+{{< gloss
+    source="lhokheguu muitede."
+    sentence="lho-khe-gu-u mui-te-de"
+    gloss="座る-FUT-NMZ-ACC.INAN 欲する-PRS.DIR-1.AN"
+    translation="座って。"
+>}}
