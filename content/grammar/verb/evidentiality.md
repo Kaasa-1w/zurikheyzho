@@ -56,8 +56,8 @@ weight = 40
 伝聞証拠は話者が他者から得た情報に基づいていることを示す。
 
 {{< gloss
-    source="litioy royuy thueri kuu'uo sikholhe."
-    sentence="litio-y roy-uy thueri kuu'uo-Ø si-kh-o-lhe"
+    source="liatioy royuy thueri kuu'uo sikholhe."
+    sentence="liatio-y roy-uy thueri kuu'uo-Ø si-kh-o-lhe"
     gloss="駅-GEN 前-LOC 新しい カフェ-NOM.INAN 開店する-FUT-REP-3.INAN"
     translation="駅前に新しくカフェができるそうだ。"
 >}}
