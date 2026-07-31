@@ -10,3 +10,6 @@ enableGitInfo = true
     
 [markup.goldmark.parser]
     autoHeadingID = false
+
+[markup.goldmark.extensions]
+    typographer = false
