@@ -87,9 +87,9 @@ weight = 20
 「もし（あのとき）～だったなら、（今）～だろう」
 
 {{< gloss
-    source="dikene roypa'uy thezee lhirebiadiife, dicee guori katighewde."
-    sentence="dike-ne roypa-'uy theze-e lhi-re-bia-d-iife dicee guori ka-t-i-ghew-de"
-    gloss="1-NOM.AN 昨日-LOC 早い-ADVZ 寝る-PST-CNTF-1.AN-COND こんなに 疲れている COP-PRS-INFER-CONJC-1.AN"
+    source="dikene roypa'uy thezee lhirebiadiife, dicee guori katenguyghewde."
+    sentence="dike-ne roypa-'uy theze-e lhi-re-bia-d-iife dicee guori ka-te-ngu-y-ghew-de"
+    gloss="1-NOM.AN 昨日-LOC 早い-ADVZ 寝る-PST-CNTF-1.AN-COND こんなに 疲れている COP-PRS-NEG-INFER-CONJC-1.AN"
     translation="もし昨日早く寝ていたら、こんなに疲れていないだろうに。"
 >}}
 
