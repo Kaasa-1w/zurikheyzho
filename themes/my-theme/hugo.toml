@@ -8,22 +8,22 @@ title = 'My New Hugo Site'
 [menus]
     [[menus.main]]
         name = '文法'
-        pageRef = '/grammar'
+        pageRef = '/grammar/'
         weight = 10
 
     [[menus.main]]
         name = '音韻'
-        pageRef = '/phonology'
+        pageRef = '/phonology/'
         weight = 20
 
     [[menus.main]]
         name = '文字'
-        pageRef = '/writing-system'
+        pageRef = '/writing-system/'
         weight = 30
 
     [[menus.main]]
         name = '例文集'
-        pageRef = '/examples'
+        pageRef = '/examples/'
         weight = 40
 
 [module]
