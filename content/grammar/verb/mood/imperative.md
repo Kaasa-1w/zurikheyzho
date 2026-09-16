@@ -24,7 +24,7 @@ weight = 60
 従って、命令法は一致接辞を必要としない。
 また、時制・証拠性と共起しない。
 
-{{< gloss
+{{< glossing
     source="lhozoo."
     sentence="lho-zoo"
     gloss="座る-IMP"
@@ -33,7 +33,7 @@ weight = 60
 
 禁止表現は命令法の否定として表される。
 
-{{< gloss
+{{< glossing
     source="ninguzoo!"
     sentence="ni-ngu-zoo"
     gloss="動く-NEG-IMP"
@@ -42,7 +42,7 @@ weight = 60
 
 依頼の表現は名詞化節と動詞 mui'aa（欲する）を用いた依頼構文で表される。
 
-{{< gloss
+{{< glossing
     source="lhokheguu muitede."
     sentence="lho-khe-gu-u mui-te-de"
     gloss="座る-FUT-NMZ-ACC.INAN 欲する-PRS.DIR-1.AN"

@@ -46,7 +46,7 @@ weight = 20
 
 「もし（今）～なら、（今）～だろう」
 
-{{< gloss
+{{< glossing
     source="dikene sane katebiadiife, nake'a siekhetighewde."
     sentence="dike-ne sa-ne ka-te-bia-d-iife nake-'a sie-khe-t-i-ghew-de"
     gloss="1-NOM.AN 鳥-NOM.AN COP-PRS-CNTF-1.AN-COND 2-ALL POT-飛ぶ-PRS-INFER-CONJC-1.AN"
@@ -66,7 +66,7 @@ weight = 20
 
 「もし（あのとき）～だったなら、～だっただろう」
 
-{{< gloss
+{{< glossing
     source="dikene zeyduee ruuoy jidirebiadiife, 'aydhuu siezeyduerighewde."
     sentence="dike-ne zeyduee ruuoy jidi-re-bia-d-iife 'aydhu-u sie-zeydue-r-i-ghew-de"
     gloss="1-NOM.AN もっと 力を入れて 学ぶ-PST-CNTF-1.AN-COND 試験-ACC.INAN POT-越える-PST-INFER-CONJC-1.AN"
@@ -86,7 +86,7 @@ weight = 20
 
 「もし（あのとき）～だったなら、（今）～だろう」
 
-{{< gloss
+{{< glossing
     source="dikene roypa'uy thezee lhirebiadiife, dicee guori katenguyghewde."
     sentence="dike-ne roypa-'uy theze-e lhi-re-bia-d-iife dicee guori ka-te-ngu-y-ghew-de"
     gloss="1-NOM.AN 昨日-LOC 早い-ADVZ 寝る-PST-CNTF-1.AN-COND こんなに 疲れている COP-PRS-NEG-INFER-CONJC-1.AN"
@@ -106,7 +106,7 @@ weight = 20
 
 「もし（仮に）～なら、（将来）～だろう」
 
-{{< gloss
+{{< glossing
     source="'oghone khinawi khimiia muutebiakiife, nalhu thawghikhighewlhe."
     sentence="'ogho-ne khinaw-i khimii-a muu-te-bia-k-iife nalhu-Ø thawghi-kh-i-ghew-lhe"
     gloss="3-NOM.AN 来週-GEN 計画-ALL 参加する-PRS-CNTF-3.AN-COND それ-NOM.INAN 成功する-FUT-INFER-CONJC-3.INAN"

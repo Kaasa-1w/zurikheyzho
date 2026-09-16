@@ -34,7 +34,7 @@ weight = 30
 
 直接証拠との組み合わせでは、不確実性の低い、強い推量を表す。
 
-{{< gloss
+{{< glossing
     source="'otio'uy 'oghone tareghewke."
     sentence="'otio-'uy 'ogho-ne ta-re-Ø-ghew-ke"
     gloss="あの場所-LOC 3-NOM.AN 存在する-PST-DIR-CONJC-3.AN"
@@ -45,7 +45,7 @@ weight = 30
 
 伝聞証拠との組み合わせでは、不確実性の高い、弱い推量を表す。
 
-{{< gloss
+{{< glossing
     source="'oghone ngue puorusiotoghewke."
     sentence="'ogho-ne ngue puoru-sio-t-o-ghew-ke"
     gloss="3-NOM.AN すでに 帰る-RES-PRS-REP-CONJC-3.AN"
@@ -56,7 +56,7 @@ weight = 30
 
 推論証拠との組み合わせでは、不確実性が中～高程度の推量を表す。
 
-{{< gloss
+{{< glossing
     source="towi dikene na'e tayrighewde."
     sentence="towi dike-ne na'e tay-r-i-ghew-de"
     gloss="もしかしたら 1-NOM.AN そのように 言う-PST-INFER-CONJC-1.AN"

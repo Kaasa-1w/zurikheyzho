@@ -32,7 +32,7 @@ weight = 40
 形態的には何も現れないが、「証拠性なし」ではなく、「**直接証拠が選択されたもの**」として解釈される。
 直接証拠は伝聞・推論証拠と明確に対立するため注意。
 
-{{< gloss
+{{< glossing
     source="'osene joori 'oothow sa'ayteke."
     sentence="'ose-ne joori 'ootho-w sa-'ay-te-Ø-ke"
     gloss="3-NOM.AN 大きい 荷物-ACC.INAN 持つ-PROG-PRS-DIR-3.AN"
@@ -44,7 +44,7 @@ weight = 40
 
 そのため、このような文では、伝聞証拠または推論証拠が用いられるのが自然である。
 
-{{< gloss
+{{< glossing
     source="'oghone kiiri katike."
     sentence="'ogho-ne kiiri ka-t-i-ke"
     gloss="3-NOM.AN 寒い COP-PRS-INFER-3.AN"
@@ -55,7 +55,7 @@ weight = 40
 
 伝聞証拠は話者が他者から得た情報に基づいていることを示す。
 
-{{< gloss
+{{< glossing
     source="liatioy royuy thueri kuu'uo sikholhe."
     sentence="liatio-y roy-uy thueri kuu'uo-Ø si-kh-o-lhe"
     gloss="駅-GEN 前-LOC 新しい カフェ-NOM.INAN 開店する-FUT-REP-3.INAN"
@@ -66,7 +66,7 @@ weight = 40
 
 推論証拠は話者が観察された事実や知識に基づいて推論したものであることを示す。
 
-{{< gloss
+{{< glossing
     source="roysiilui'uy thee liorilhe."
     sentence="roysiilui-'uy thee-Ø lio-r-i-lhe"
     gloss="昨夜-LOC 雨-NOM.INAN 落ちる-PST-INFER-3.INAN"
@@ -77,7 +77,7 @@ weight = 40
 このとき、推論結果に対する確実性は中立の立場を取っており、言及していない。
 不確実な推論結果を表す場合は、[推量法]({{< relref "grammar/verb/mood/conjectural" >}})を併用してその不確実性を明示する。
 
-{{< gloss
+{{< glossing
     source="roysiilui'uy thee liorighewlhe."
     sentence="roysiilui-'uy thee-Ø lio-r-i-ghew-lhe"
     gloss="昨夜-LOC 雨-NOM.INAN 落ちる-PST-INFER-CONJC-3.INAN"

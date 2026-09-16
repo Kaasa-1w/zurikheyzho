@@ -24,7 +24,7 @@ weight = 50
 
 無生物が1人称・2人称主語となる用法は語用論的に強く制限されるため、その対立は体系化していない。
 
-{{< gloss
+{{< glossing
     source="dikene kheythoy tayu juitede."
     sentence="dike-ne kheytho-y tay-u jui-te-de"
     gloss="1-NOM.AN ヘイソウ-GEN 言語-ACC 話す-PRS.DIR-1.AN"
@@ -33,7 +33,7 @@ weight = 50
 
 一致接尾辞により主語の人称・有生性が判別できるため、人称代名詞を主語とする文では主語は省略されることが多い。
 
-{{< gloss
+{{< glossing
     source="kheythoy tayu juitede."
     sentence="kheytho-y tay-u jui-te-de"
     gloss="ヘイソウ-GEN 言語-ACC 話す-PRS.DIR-1.AN"
