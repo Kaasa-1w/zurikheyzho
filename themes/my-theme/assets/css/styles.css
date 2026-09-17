@@ -455,6 +455,11 @@ footer {
     color: #1a242f;
 }
 
+/* ---------------------------------------- examples/ ---------------------------------------- */
+.page-examples .section-inner p {
+    text-indent: 1rem;
+}
+
 /* ---------------------------------------- 404 Error ---------------------------------------- */
 .error-page h1, .error-page p {
     text-align: center;
